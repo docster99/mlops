@@ -1,2 +1,1 @@
-# mlops
-Great Learning ML Ops repo
+# autompg-azure-mlops-main
